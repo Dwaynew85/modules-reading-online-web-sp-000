@@ -1,2 +1,2 @@
-class Dancer 
+class Dancer
 end
